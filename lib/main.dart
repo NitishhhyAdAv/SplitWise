@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 //import 'package:splitwise_app/homepage.dart';
 import 'package:splitwise_app/login/login_page.dart';
 
+
 void main() {
   runApp(const MyApp());
 }
